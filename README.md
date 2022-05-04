@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm James Okemwa!</h1>
 <h3 align="center">A passionate Full Stack Software Engineer from Kenya</h3>
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/5403918-Focus/attachments/10850316?mode=media">
 
 - 🔭 I’m currently working on **Spotify Clone**
 
