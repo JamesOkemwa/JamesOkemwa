@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm James Okemwa!</h1>
 <h3 align="center">A passionate Full Stack Software Engineer from Kenya</h3>
-<img align="right" alt="Coding" width="400" src="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbVAwUU9qc2NGRUhySVUwT2FuYmJBZllKM1FrUXxBQ3Jtc0ttbkw1cDhaSk9acGlCY25keFZLR3l0cmRlUXFtQ2NGaVhlOWxHX19EbE1zd0E3bjNfSVZfWHdvSnR5RS1PcnlEaF9JVWN3Wk90Y21Va0lhVEd3NmpXbFhjcWlYVUFwVU5YRldCcGo4cmtuamhmLVB1UQ&q=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1162077%2Fscreenshots%2F3848914%2Fprogrammer.gif&v=G-EGDH50hGE">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on **Spotify Clone**
 
