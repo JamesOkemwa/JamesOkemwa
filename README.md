@@ -5,4 +5,4 @@
 - 👯 I’m looking to collaborate on ... open source
 - 💬 Ask me about ... Web Maps, GIS or any tech related stuff
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... Dumbbells and code commits are meant to be pushed and pulled.
+- ⚡ Fun fact: ... I push barbells, dumbbells and code commits!
