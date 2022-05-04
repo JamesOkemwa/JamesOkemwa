@@ -3,6 +3,6 @@
 - 🔭 I’m currently working on ... Spotify Clone
 - 🌱 I’m currently learning ... Tailwind CSS
 - 👯 I’m looking to collaborate on ... open source
-- 💬 Ask me about ... Web Maps, GIS
+- 💬 Ask me about ... Web Maps, GIS or nay tech related stuff
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... Dumbbells and code commits are meant to be pushed and pulled.
