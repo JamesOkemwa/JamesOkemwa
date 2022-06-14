@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Software Engineer from Kenya</h3>
 <h5 align="center">Using tech to solve real-world problems</h5>
 
-- 🔭 I’m currently working on **Spotify Clone**
+- 🔭 I’m currently working on **Travel Advisor**
 
 - 🌱 I’m currently learning **Next JS, Tailwind CSS**
 
