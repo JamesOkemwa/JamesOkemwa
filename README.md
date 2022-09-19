@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Next JS, Tailwind CSS**
 
-- 💬 Ask me about **Web Development,GIS or any tech related stuff.**
+- 💬 Ask me about **Web Development, GIS or any tech related stuff.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
