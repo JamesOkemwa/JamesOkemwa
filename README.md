@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Software Engineer from Kenya</h3>
 <h5 align="center">Using tech to solve real-world problems</h5>
 
-- 🔭 I’m currently working on a **Leaflet Routing Application**
+- 🔭 I’m currently working on a **Routing Application**
 
 - 🌱 I’m currently learning **Next JS, Tailwind CSS**
 
