@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm James Okemwa!</h1>
-<h3 align="center">A passionate Full Stack Software Engineer from Kenya</h3>
+<h3 align="center">A Full Stack GIS Developer</h3>
 <h5 align="center">Using tech to solve real-world problems</h5>
 
 - 🔭 I’m currently working on a **Routing Application**
