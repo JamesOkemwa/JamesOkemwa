@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm James Okemwa!</h1>
-<h3 align="center">A Full Stack GIS Developer</h3>
+<h3 align="center">Geospatial Developer</h3>
 <h5 align="center">Using tech to solve real-world problems</h5>
 
 - 🔭 I’m currently working on a **Routing Application**
 
-- 🌱 I’m currently learning **Next JS, Tailwind CSS**
+- 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **Web Development, GIS or any tech related stuff.**
+- 💬 Ask me about **Web Development, Geoinformatics or any tech related stuff.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
