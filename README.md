@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm James Okemwa!</h1>
+<h1 align="center">Hi 👋, I'm James Okemwa Ondieki!</h1>
 <h3 align="center">Geospatial Developer</h3>
 <h5 align="center">Using tech to solve real-world problems</h5>
 
